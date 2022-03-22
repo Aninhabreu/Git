@@ -1,0 +1,1 @@
+Projeto para a introdução ao aprendizado de Git.
